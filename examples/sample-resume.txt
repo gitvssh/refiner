@@ -1,0 +1,7 @@
+Jordan Lee — Backend Engineer
+
+Built a Python payment reconciliation service that processed 2 million synthetic events per day.
+Reduced duplicate settlement work by 42% through idempotency keys and replay-safe consumers.
+Designed FastAPI services with explicit application, domain, and infrastructure boundaries.
+Operated PostgreSQL workloads and added metrics, traces, runbooks, and failure-injection tests.
+Partnered with product and platform engineers to deliver audited releases through Kubernetes CI.

@@ -1,0 +1,4 @@
+This synthetic backend engineer role supports a payment platform. It requires Python, FastAPI,
+PostgreSQL, Kubernetes, observability, idempotency, and CI. The engineer will communicate trade-offs,
+design reliable APIs, test failure recovery, and improve developer workflows. Experience with
+event-driven systems and settlement reconciliation is valued.
